@@ -227,7 +227,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`شكشوكة المنيوكة`,"http://twitch.tv/S-F")
+client.user.setGame(`عندما اصل تتمنى الشياطين ان لم تولد`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
 
